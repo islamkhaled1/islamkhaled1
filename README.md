@@ -46,6 +46,8 @@ My primary focus is **Backend Engineering with .NET**, while remaining adaptable
   <img src="https://skillicons.dev/icons?i=dotnet,laravel,fastapi&theme=dark" alt="Backend frameworks" />
 </p>
 
+**ASP.NET Core · Entity Framework Core · Laravel · FastAPI**
+
 ### 🗄️ Databases
 
 <p>
