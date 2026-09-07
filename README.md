@@ -149,7 +149,7 @@ A console-based banking system focused on **OOP, permission-based access control
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamkhaled1&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-</p>
+</p>>
 
 ---
 
