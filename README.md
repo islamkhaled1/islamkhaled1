@@ -46,12 +46,12 @@ My primary focus is **Backend Engineering with .NET**, while remaining adaptable
   <img src="https://skillicons.dev/icons?i=dotnet,laravel,fastapi&theme=dark" alt="Backend frameworks" />
 </p>
 
-**ASP.NET Core · Entity Framework Core · Laravel · FastAPI**
-
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,sqlite&theme=dark" alt="Databases" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
 </p>
 
 **SQL Server · MySQL · SQLite**
