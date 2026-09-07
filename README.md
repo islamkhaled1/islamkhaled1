@@ -143,13 +143,7 @@ A console-based banking system focused on **OOP, permission-based access control
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=islamkhaled1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamkhaled1&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-</p>>
+I actively use GitHub to build backend projects, experiment with different technologies, and apply software engineering concepts through practical development.
 
 ---
 
