@@ -30,7 +30,7 @@ My primary focus is **Backend Engineering with .NET**, while remaining adaptable
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
@@ -50,6 +50,10 @@ My primary focus is **Backend Engineering with .NET**, while remaining adaptable
 
 ### 🗄️ Databases
 
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,sqlite&theme=dark" alt="Databases" />
+</p>
+
 **SQL Server · MySQL · SQLite**
 
 ### 🔌 APIs & Integrations
@@ -58,12 +62,15 @@ My primary focus is **Backend Engineering with .NET**, while remaining adaptable
 
 ### 🧪 Testing & Developer Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" alt="Developer tools" />
+</p>
+
 **xUnit · Moq · Git · GitHub · Docker · Docker Compose · Postman**
 
 ### 🏗️ Software Engineering
 
 **OOP · SOLID Principles · Design Patterns · Clean Code · Data Structures & Algorithms · Authentication & Authorization**
-
 ---
 
 ## Featured Projects
