@@ -14,10 +14,9 @@
   </a>
   <a href="https://github.com/islamkhaled1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=islamkhaled1" alt="Profile Views" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-1f6feb?style=for-the-badge" alt="Backend Engineering" />
 </p>
-
 ---
 
 ## About Me
