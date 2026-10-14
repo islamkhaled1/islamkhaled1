@@ -53,7 +53,8 @@ My approach is to understand the problem first, choose the right design, and wri
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mssql,mysql,sqlite&theme=dark" alt="Databases" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="MySQL and SQLite" />
 </p>
 
 `SQL Server` · `MySQL` · `SQLite` · `Relational Database Design` · `Query Optimization`
